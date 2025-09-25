@@ -1,0 +1,34 @@
+{{$input}}
+
+You are an expert policy analyst. Given PRIMARY and SECONDARY policy texts, produce STRICT JSON matching this schema and nothing else:
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PolicyDocumentComparison",
+  "type": "object",
+  "properties": {
+    "documentSimilarity": {"type": "boolean"},
+    "documentSimilarityDescription: {"type": "string"},
+    "documentDifferences": {"type": "array", "items": {"type": "string"}},
+    "documentIntegrationSteps": {"type": "array", "items": {"type": "string"}}
+  
+  },
+  "required": ["documentSimilarity", "documentDifferences", "documentIntegrationSteps"],
+  "additionalProperties": false
+}
+
+Instructions:
+- Determine if policies are related by scope/topic (true/false).
+- Explain how the documents are similar, for example, they are both expense related policy document.
+- List concrete differences with brief quoted excerpts.
+- Provide clear, actionable steps to integrate SECONDARY into PRIMARY.
+- Output must be valid JSON only, no markdown, no commentary.
+
+PRIMARY:
+"""
+{{$primary}}
+"""
+
+SECONDARY:
+"""
+{{$secondary}}
+"""

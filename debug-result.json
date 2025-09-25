@@ -1,0 +1,20 @@
+{
+  "documentSimilarity": true,
+  "documentSimilarityDescription": "Both documents are related to travel expense policies, covering meals, lodging, transportation, and approval processes.",
+  "documentDifferences": [
+    "Scope: PRIMARY applies to full-time employees, while SECONDARY includes employees and contractors.",
+    "Meals: PRIMARY allows up to $60/day without alcohol, SECONDARY allows up to $75/day with alcohol for client dinners.",
+    "Lodging: PRIMARY caps at $200/night in standard rooms, SECONDARY caps at $220/night and allows boutique hotels.",
+    "Transportation: PRIMARY requires economy airfare, SECONDARY allows premium economy for flights over 6 hours.",
+    "Approval: PRIMARY requires manager approval, SECONDARY requires pre-trip request via Concur.",
+    "Per Diem: PRIMARY does not provide per diem, SECONDARY offers $50/day for field staff."
+  ],
+  "documentIntegrationSteps": [
+    "Expand scope in PRIMARY to include contractors.",
+    "Adjust meal reimbursement in PRIMARY to $75/day and allow alcohol for client dinners.",
+    "Increase lodging cap in PRIMARY to $220/night and permit boutique hotels.",
+    "Allow premium economy airfare in PRIMARY for flights over 6 hours.",
+    "Implement pre-trip request system via Concur in PRIMARY.",
+    "Introduce a $50/day per diem for field staff in PRIMARY."
+  ]
+}

@@ -1,0 +1,8 @@
+semantic-kernel
+pydantic
+python-dotenv
+httpx
+pypdf
+python-docx
+jsonschema
+openai

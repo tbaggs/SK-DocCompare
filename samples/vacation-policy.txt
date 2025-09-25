@@ -1,0 +1,51 @@
+Company Vacation Policy v1.0
+
+Purpose:
+Provide fair, consistent guidelines for accruing, requesting, and using paid vacation (PTO) while ensuring business continuity.
+
+Scope:
+All full-time and part-time employees; contractors excluded unless stipulated by contract.
+
+1. Accrual
+- Full-time (40 hrs/week): 15 days (120 hours) annually, accrued bi-weekly.
+- Part-time (>=20 hrs/week): Prorated based on scheduled hours.
+- Accrual cap: 1.5x annual entitlement. Accrual pauses at cap until balance reduced.
+
+2. Eligibility & Usage
+- PTO may be requested as soon as accrued; no waiting period after hire.
+- Minimum increment: 0.5 day (4 hours) for exempt employees; 1 hour for non-exempt.
+- Negative PTO balances not permitted.
+
+3. Request & Approval
+- Submit requests at least 10 business days in advance via HRIS.
+- Managers approve based on staffing, project deadlines, and fairness.
+- Peak blackout periods (e.g., last fiscal week) may restrict approvals.
+
+4. Carryover & Forfeiture
+- Up to 5 unused days may carry over to the next calendar year.
+- Excess beyond carryover at year end is forfeited unless local law mandates payout.
+
+5. Payout on Separation
+- Unused accrued PTO is paid out where legally required; otherwise forfeited if voluntary resignation without 2 weeks notice.
+
+6. Holidays & PTO Overlap
+- Company holidays occurring during scheduled PTO are not charged against PTO balance.
+
+7. Mandatory Time Away
+- Employees in Finance and Security roles must take at least 5 consecutive business days off annually.
+
+8. Recording & Compliance
+- Time must be recorded accurately each pay period.
+- Falsification or misuse (e.g. working elsewhere during PTO) is subject to discipline.
+
+9. Changes & Exceptions
+- HR may adjust this policy to comply with evolving legislation.
+- Exceptions require written approval from HR Director.
+
+10. Related Policies
+- Sick Leave Policy
+- Remote Work Policy
+- Attendance & Timekeeping Policy
+
+Revision History:
+- 1.0 (2025-08-01): Initial release.

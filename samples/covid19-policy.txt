@@ -1,0 +1,68 @@
+Company COVID-19 Health & Safety Policy v2.3
+
+Purpose:
+Protect the health of employees, customers, and visitors while sustaining essential business operations during SARS-CoV-2 (COVID-19) endemic management.
+
+Scope:
+All employees, onsite contractors, interns, and visitors entering company facilities worldwide.
+
+1. Vaccination & Documentation
+- Strongly encouraged; where legally permissible, employees may voluntarily submit proof of up-to-date vaccination (primary series + boosters).
+- No employment decisions are based solely on vaccination status except where mandated by local regulation.
+- Vaccination data stored securely with restricted HR access only.
+
+2. Symptom Monitoring
+- Self-screen daily before reporting onsite.
+- Do NOT enter facilities if experiencing: fever (>100.4°F / 38°C), persistent cough, loss of taste/smell, shortness of breath, or new sore throat.
+- Use the Health Portal to submit a same-day symptom attestation if required by site.
+
+3. Positive Test Protocol
+- Immediately notify your manager and submit a confidential report via the Health Portal.
+- Isolation: Minimum 5 full days from symptom onset or positive test (Day 0). Return on Day 6 if fever-free 24 hours (no medication) and symptoms improving.
+- Mask required Days 6–10 while onsite.
+
+4. Exposure Guidelines (Close Contact)
+- No quarantine if asymptomatic; wear a mask onsite for 10 days and test on Day 5.
+- If symptoms develop, follow Positive Test Protocol.
+
+5. Onsite Mitigations
+- Hand hygiene stations maintained at all entrances, break areas, conference rooms.
+- Enhanced HVAC filtration (MERV-13 or better) in designated high-density areas.
+- Optional masking; mandatory during declared Outbreak Status.
+- Conference rooms have posted occupancy limits—adhere during heightened transmission periods.
+
+6. Remote & Hybrid Work
+- Temporarily remote work may be approved during isolation or care of affected household members.
+- Permanent schedule changes follow the Remote Work Policy.
+
+7. Travel
+- International business travel requires pre-approval; may be restricted to critical operations during elevated WHO or CDC advisory levels.
+- Post-travel testing recommended for high-risk regions.
+
+8. Visitors & Vendors
+- Visitors must follow posted signage and any temporary screening procedures.
+- Vendors delivering critical supplies may be exempt from registration during emergency response.
+
+9. Cleaning & Facilities
+- High-touch surfaces disinfected at least twice daily during Outbreak Status.
+- Facility logs maintained for regulatory inspection.
+
+10. Data Privacy
+- Health information is confidential and processed according to Data Protection & Privacy Policy.
+
+11. Non-Compliance
+- Failure to follow mandatory components (e.g., isolation periods) may result in corrective action.
+
+12. Policy Review
+- Reviewed quarterly by the Health & Safety Committee or sooner if public health guidance changes materially.
+
+Related Policies:
+- Infectious Disease Preparedness Plan
+- Remote Work Policy
+- Business Travel Policy
+
+Revision History:
+- 2.3 (2025-07-15): Updated exposure masking guidance.
+- 2.2 (2025-05-10): Reduced isolation to minimum 5 days aligned with health authority updates.
+- 2.1 (2025-03-01): Added HVAC filtration section.
+- 2.0 (2025-01-05): Transitioned from pandemic to endemic management.
