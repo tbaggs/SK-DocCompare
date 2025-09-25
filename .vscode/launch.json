@@ -1,0 +1,46 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vscode-debugadapter-node/master/debugProtocol.json",
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Policy Compare (main.py file)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}\\sk_compare_docs_agent\\main.py",
+      "args": [
+        "${workspaceFolder}\\samples\\trav-primary.txt",
+        "${workspaceFolder}\\samples\\trav-secondary.txt",
+        "--output",
+        "${workspaceFolder}\\debug-result.json",
+        "--pretty"
+      ],
+      "envFile": "${workspaceFolder}\\.env",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Policy Compare (module)",
+      "type": "python",
+      "request": "launch",
+      "module": "sk_compare_docs_agent",
+      "args": [
+        "${workspaceFolder}\\samples\\trav-primary.txt",
+        "${workspaceFolder}\\samples\\trav-secondary.txt",
+        "--output",
+        "${workspaceFolder}\\debug-result.json",
+        "--pretty"
+      ],
+      "envFile": "${workspaceFolder}\\.env",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Policy Compare (prompt for args)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}\\sk_compare_docs_agent\\main.py",
+      "args": [],
+      "envFile": "${workspaceFolder}\\.env",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
